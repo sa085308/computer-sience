@@ -1,0 +1,90 @@
+body{
+    background:rgb(179, 173, 178);
+}
+header{
+    background:black;
+    background-image: url("image/cs.jpg");
+    background-position: center;
+    color:white;
+    padding:20px;
+    height:200px;
+    text-align: center;
+}
+header a{
+    color:white;
+    margin-top: 10px;
+    margin-left: 0px;
+    text-transform: uppercase;
+}
+header .logos a{
+    background-image: url("image/sec\ a.jpg");
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: relative;
+  display:inline-block;
+  height: 300px;
+   text-indent: -99999999px;
+    width:100px;
+
+   
+   
+}
+nav ul{
+    margin:0;
+    padding:0;
+    list-style-type: none;
+}
+nav li{
+    list-style-type: none;
+    display:inline;
+    margin:0 10px 0 0;
+   
+}
+.sec{
+    background:white;
+    display: flex;
+    flex-direction:row ;
+    color:black;
+    padding:20px;
+    height:180px
+    
+}
+
+.sec figure{
+    margin:auto;
+    text-align: center;
+    width:200px;
+}
+.sec figure img{
+    border-radius: 10px;
+    width:200px;
+
+}
+
+footer{
+    background:rgb(48, 41, 41);
+    color:white;
+    font-size: 12px;
+    padding:8px;
+    text-align: center;
+    margin-top: 40px;
+}
+section{
+    background-image: url("image/sec\ a.jpg");
+   
+    background-size: 100px;
+    background-position: center;
+    margin-top: 10px;
+    height:100px;
+}
+div{
+    background-color: black;
+    
+    display:inline-block;
+    color:white;
+    margin: 10px;
+}
+.pdf{
+    background-image: url("image/th\ \(1\).jpg");
+    
+}
