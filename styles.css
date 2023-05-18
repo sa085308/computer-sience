@@ -7,7 +7,7 @@
 }
 header{
     
-    background-image: url("image/200w\ \(7\).webp");
+    background-image: url("image/image/200w\ \(7\).webp");
     background-size:contain;
    
     background-position: center;
@@ -24,7 +24,7 @@ header a{
     text-transform: uppercase;
 }
 header .logos a{
-    background-image: url("image/sec\ a.jpg");
+    background-image: url("image/image/sec\ a.jpg");
     background-size: 250px;
     background-repeat: no-repeat;
     background-position: center;
@@ -48,7 +48,7 @@ nav li{
    
 }
 .sec{
-    background-image: url("image/MediocreNervousHerculesbeetle.webp");
+    background-image: url("image/image/MediocreNervousHerculesbeetle.webp");
     background-size:cover;
     background-position:relative;
 
@@ -86,7 +86,7 @@ nav li{
     width:200px;
 }
 .section{
-    background-image: url("image/200w\ \(6\).webp");
+    background-image: url("image/image/200w\ \(6\).webp");
     background-size:400px;
     background-repeat: no-repeat;
 
@@ -135,6 +135,6 @@ div{
     margin: 10px;
 }
 .pdf{
-    background-image: url("image/th\ \(1\).jpg");
+    background-image: url("image/image/th\ \(1\).jpg");
     
 }
